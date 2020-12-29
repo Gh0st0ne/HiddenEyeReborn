@@ -36,7 +36,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/isuruwa/HiddenEye
+git clone https://github.com/isuruwa/HiddenEyeReborn
 
 cd HiddenEye
 
