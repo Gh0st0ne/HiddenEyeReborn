@@ -1,0 +1,90 @@
+
+Victim Public IP: 175.157.198.209
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36
+
+Current logged in user: u0_a128
+
+Victim Public IP: 175.157.198.209
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36
+
+Current logged in user: u0_a128
+{"dev":[{"platform":"Linux armv7l","browser":"Chrome\/55.0.2883.91","cores":"4","ram":"Not Available","vendor":"ARM","render":"Mali-400 MP","ip":"175.157.198.209","ht":"534","wd":"320","os":"Android 6.0.1"}]}{"dev":[{"platform":"Linux armv7l","browser":"Chrome\/55.0.2883.91","cores":"4","ram":"Not Available","vendor":"ARM","render":"Mali-400 MP","ip":"175.157.198.209","ht":"534","wd":"320","os":"Android 6.0.1"}]}{"dev":[{"platform":"Linux armv7l","browser":"Chrome\/56.0.2924.87","cores":"4","ram":"Not Available","vendor":"ARM","render":"Mali-400 MP","ip":"175.157.198.209","ht":"534","wd":"320","os":"Android 6.0.1"}]}
+Victim Public IP: 2402:d000:a000:14a0:d:7dad:664d:bec6
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J210F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a128
+
+Victim Public IP: 175.157.200.127
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+
+Current logged in user: u0_a188
+
+Victim Public IP: 175.157.200.127
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+
+Current logged in user: u0_a188
+
+Victim Public IP: 175.157.200.127
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+
+Current logged in user: u0_a188
+
+Victim Public IP: 175.157.62.34
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36
+
+Current logged in user: u0_a122
+
+Victim Public IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+
+Current logged in user: u0_a122
+
+Victim Public IP: 61.245.161.144
+User-Agent: Mozilla/5.0 (Linux; Android 6.0.1; SM-J106H Build/MMB29Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari/537.36
+
+Current logged in user: u0_a122
+
+Victim Public IP: 43.250.240.252
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+{"dev":[{"platform":"Linux armv8l","browser":"Chrome\/81.0.4044.138","cores":"8","ram":"4","vendor":"ARM","render":"Mali-G72","ip":"2407:c00:d005:2f9a:1:1:412a:a481","ht":"892","wd":"412","os":"Android 10"}]}{"dev":[{"platform":"Linux armv8l","browser":"Chrome\/81.0.4044.138","cores":"8","ram":"4","vendor":"ARM","render":"Mali-G72","ip":"2407:c00:d005:2f9a:1:1:412a:a481","ht":"892","wd":"412","os":"Android 10"}]}{"dev":[{"platform":"Linux armv8l","browser":"Chrome\/81.0.4044.138","cores":"8","ram":"4","vendor":"ARM","render":"Mali-G72","ip":"43.250.242.180","ht":"892","wd":"412","os":"Android 10"}]}
+Victim Public IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 139.162.18.244
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 139.162.18.244
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 113.59.213.101
+User-Agent: Mozilla/5.0 (Linux; Android 9; JAT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 139.162.18.244
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 43.250.242.180
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 139.59.27.192
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+
+Current logged in user: u0_a255
+
+Victim Public IP: 2407:c00:5001:6472:1:1:6787:2c84
+User-Agent: Mozilla/5.0 (Linux; Android 10; SM-M215F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
+
+Current logged in user: u0_a255
